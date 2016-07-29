@@ -13,7 +13,7 @@ Description:		'The Quantlet generates a data set that based on the mathematical 
 			- error
 			
 			The generated table shows the most exactly approximation of |f'(1)| of the cosine function which
-			can be calculated by the programmin language R in line 8 and the mathematical order of error of the
+			can be calculated by the programming language R in line 8 and the mathematical order of error of the
  			forward difference quotient in line 1 to 8 (linear relationship between increment and error).
 			Furthermore, the Quantlet creates a graphical representation of the order of error.' 
 
