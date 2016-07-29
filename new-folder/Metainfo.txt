@@ -19,7 +19,7 @@ Description:		'The Quantlet generates a data set that based on the mathematical 
 
 Keywords:		data visualization, approximation, function, plot, graphical representation
 
-See also:		SPL_symdiffquot 
+See also:		SPL_symdiffquot
 
 Author:			Dajana Adamietz
 
