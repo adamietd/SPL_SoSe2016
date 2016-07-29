@@ -1,4 +1,3 @@
-
 Name of Quantlet:	SPL_fordiffquot
 
 Published in:		Statistical Programming Languages
