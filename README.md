@@ -1,2 +1,2 @@
 # SPL_SoSe2016
-Quantlets for the course
+Quantlets for the course Statistical Programming Languages
