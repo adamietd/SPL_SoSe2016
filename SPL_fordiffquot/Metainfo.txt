@@ -1,9 +1,8 @@
+NAME OF QUANTLET:	SPL_fordiffquot
 
-Name of Quantlet:	SPL_fordiffquot
+PUBLISHED IN:		Statistical Programming Languages
 
-Published in:		Statistical Programming Languages
-
-Description:		'The Quantlet generates a data set that based on the mathematical theory of the forward difference
+DESCRIPTION:		'The Quantlet generates a data set that based on the mathematical theory of the forward difference
 			quotient. In detail, the Quantlet caclutates data of the absolute approximation and their absolute
 			error of the first derivation f'(x) of the cosine function f(x)=cos(x) at the position x=1 for
 			several different increment parameters h. More exactly, the Quantlet generates a tabular overview
@@ -18,10 +17,10 @@ Description:		'The Quantlet generates a data set that based on the mathematical 
 			the forward difference quotient in line 1 to 8 (linear relationship between increment and error).
 			Furthermore, the Quantlet creates a graphical representation of the order of error.' 
 
-Keywords:		data visualization, approximation, function, plot, graphical representation
+KEYWORDS:		data visualization, approximation, function, plot, graphical representation
 
-See also:		SPL_symdiffquot
+SEE ALSO:		SPL_symdiffquot
 
-Author:			Dajana Adamietz
+AUTHOR:			Dajana Adamietz
 
-Output:			tabular overview, graphical representation
+OUTPUT:			tabular overview, graphical representation
