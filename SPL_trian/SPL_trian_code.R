@@ -1,5 +1,6 @@
 input=function(){  
-    # interactive part - user enter coordinates of points A, B and C
+
+  # interactive part - user enter coordinates of points A, B and C
   pointAx = readline("Key in the first x coordinate and press enter : "); 
   pointAy = readline("Key in the first y coordinate and press enter : "); 
   pointA  = as.integer(c(pointAx, pointAy)); 
@@ -9,17 +10,21 @@ input=function(){
   pointCx = readline("Key in the third x coordinate and press enter : "); 
   pointCy = readline("Key in the third y coordinate and press enter : "); 
   pointC  = as.integer(c(pointCx, pointCy));
-    # output - information about coordinates, which have been saved
+  
+  # output - information about coordinates, which have been saved
   print("-------------------------------------------")  # visible line
   print("The first point includes the coordinates : "); print(pointA)
   print("The second point includes the coordinates: "); print(pointB)
   print("The third point includes the coordinates : "); print(pointC)
-    # define vectors (based on points A, B and C
+  
+  # define vectors (based on points A, B and C)
   vector1 = c(pointB - pointA)
   vector2 = c(pointC - pointA) 
-    # define matrix (based on vectors)
+  
+  # define matrix (based on vectors)
   matrix  = rbind(vector1, vector2)
-    # output if points (do not) form a triangle:
+  
+  # output if points (do not) form a triangle:
   if (det(matrix) == 0){
     print("These points do not generate a triangle")  
   } else {
