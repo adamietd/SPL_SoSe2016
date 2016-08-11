@@ -24,7 +24,7 @@ input=function(){
   # define matrix (based on vectors)
   matrix  = rbind(vector1, vector2)
   
-  # output if points (do not) form a triangle:
+  # check if points (do not) form a triangle:
   if (det(matrix) == 0){
     print("These points do not generate a triangle")  
   } else {
