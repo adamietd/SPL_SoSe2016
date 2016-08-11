@@ -5,11 +5,11 @@ PUBLISHED IN:		Statistical Programming Languages
 DESCRIPTION:		'The quantlet will give information, if three points generate a triangle or not. The quantlet
 			includes a test of linear independence. The points are entered by the user into the terminal.'
 			 
-KEYWORDS:		linear, independence, graphical representation, Testing, distance
+KEYWORDS:		linear, independence, graphical representation, testing, distance
 
 AUTHOR:			Natalie Mangels
 
-INPUT:			X and y coordinates entered by user into terminal 
+INPUT:			x and y coordinates enter by user into terminal 
 
 OUTPUT:			graphic
 			
