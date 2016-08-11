@@ -22,3 +22,5 @@ KEYWORDS:		data visualization, approximation, function, plot, graphical represen
 SEE ALSO:		SPL_fordiffquot
 
 AUTHOR:			Dajana Adamietz
+
+OUTPUT:			table, graphics
