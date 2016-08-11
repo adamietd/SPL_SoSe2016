@@ -23,4 +23,4 @@ SEE ALSO:		SPL_fordiffquot
 
 AUTHOR:			Dajana Adamietz
 
-OUTPUT:			table, graphic
+OUTPUT:			table, graphics
