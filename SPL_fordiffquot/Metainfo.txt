@@ -23,4 +23,4 @@ SEE ALSO:		SPL_symdiffquot
 
 AUTHOR:			Dajana Adamietz
 
-OUTPUT:			tabular overview, graphical representation
+OUTPUT:			table, graphic
