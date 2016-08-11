@@ -22,5 +22,3 @@ KEYWORDS:		data visualization, approximation, function, plot, graphical represen
 SEE ALSO:		SPL_symdiffquot
 
 AUTHOR:			Dajana Adamietz
-
-OUTPUT:			table, graphic
