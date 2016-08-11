@@ -1,0 +1,20 @@
+NAME OF QUANTLET:	SPL_imp
+
+PUBLISHED IN:		Statistical Programming Languages
+
+DESCRIPTION:		'This quantlet prepares the specific data of the file "rdata_Pay_What_You_Want_Preismodell_2016-06-
+			16_11-29.csv", which is from a survey to import this data into the program R. It also includes the
+			definition of verbal expressions of the answers of the survey data to work with it.'
+
+KEYWORDS:		data mining, calibration, data adjustment, standarize, text mining
+
+SEE ALSO:		SPL_dumreg
+
+AUTHOR:			Luise Groﬂler
+
+DATAFILE:		rdata_Pay_What_You_Want_Preismodell_2016-06-16_11-29.csv
+
+
+
+
+
