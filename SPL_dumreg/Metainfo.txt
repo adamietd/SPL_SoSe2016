@@ -1,3 +1,4 @@
+
 NAME OF QUANTLET:	SPL_dumreg
 
 PUBLISHED IN:		Statistical Programming Languages
@@ -11,11 +12,6 @@ KEYWORDS:		data visualization, graphical representation, linear-regression, line
 
 SEE ALSO:		SPL_imp
 
-AUTHOR:			Luise Groﬂler
+AUTHOR:			Luise Gro√üler
 
 DATAFILE:		rdata_Pay_What_You_Want_Preismodell_2016-06-16_11-29.csv
-
-
-
-
-
