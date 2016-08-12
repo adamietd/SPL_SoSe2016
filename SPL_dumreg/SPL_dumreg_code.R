@@ -45,7 +45,7 @@ plot(income.4, new.data, type = "p", main = "income.4",
      xlab = "income group: 2001 Euro - 3000 Euro", 
      ylab = "Price paid")
 
-# Vektor for income > 3000 Euro
+# vektor for income > 3000 Euro
 income.5 = ifelse(data$SD08 == "ueber 3000 Euro", 1, 0)
 income.5
 plot(income.5, new.data, type = "p", main = "income.5",
